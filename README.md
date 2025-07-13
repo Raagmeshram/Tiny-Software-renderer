@@ -24,7 +24,7 @@ A real-time 3D visualization engine built from scratch in C using [Raylib](https
 
 ## Demo
 
-*(Include screenshots or a short GIF here if possible)*
+![Screenshot of 3D Renderer](Screen.png)
 
 ---
 ### Prerequisites
